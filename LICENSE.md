@@ -1,3 +1,3 @@
-Copyright 2013 Tim Stauffer. Take it, do as you will.
+Copyright 2019 Tim Stauffer. Take it, do as you will.
 
 Peace
